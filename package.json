@@ -1,0 +1,22 @@
+{
+  "name": "my-first-npm-raflyfahrezi",
+  "version": "1.0.0",
+  "description": "Im trying to publish NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raflyfahrezi/my-first-npm.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "Farhan Rafly Fahrezi S <farhanraflyfahrezi@gmail.com> (https://raflyfahrezi.space)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raflyfahrezi/my-first-npm/issues"
+  },
+  "homepage": "https://github.com/raflyfahrezi/my-first-npm#readme"
+}
